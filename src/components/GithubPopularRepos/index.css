@@ -1,0 +1,18 @@
+.backgrounddetails {
+  background-color: lightblue;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.unorderlist {
+  display: flex;
+  list-style-type: none;
+}
+.secondunorderlist {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  justify-content: center;
+}
